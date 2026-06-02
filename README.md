@@ -4,7 +4,7 @@ Projeto desenvolvido com HTML, CSS e JavaScript, com abordagem Mobile First, ond
 
 ## Acesse online: 
 
-[Projeto Portifolio](https://dilene-carvalho.github.io/estudos/projeto-portifolio/)
+[Projeto Portifolio](https://dilene-carvalho.github.io/projeto-portifolio/)
 
 ## Preview:
 <img src="imagens/preview-projeto-portifolio.png" width="300">
